@@ -85,13 +85,13 @@ B. PENJELASAN OUTPUT
 
 -Menu tambah barang, sama seperti menu sebelumnya namun dimenu ini pengguna hanya dapat menginput 1 jenis buku saja
 
--Menu display untuk menampilkan buku yang telah diinput pengguna yang telah tersusun dalam bentuk table
+-Menu display untuk menampilkan buku yang telah tersusun dalam bentuk table
 
 ![Screenshot (566)](https://user-images.githubusercontent.com/122012870/225864565-9cc0e601-8b20-4d5a-bab5-802b580a0ddd.png)
 
 -Menu Hapus buku untuk menghapus nama buku yang sesuai dengan inputan pengguna
 
--Menu display untuk menampilkan buku yang telah diinput pengguna yang telah tersusun dalam bentuk table
+-Menu display untuk menampilkan buku yang telah tersusun dalam bentuk table
 
 sebelum dihapus
 
@@ -103,7 +103,7 @@ setelah dihapus
 
 -Menu Hapus Seluruh Barang, pada menu ini data yang seluruhnya tersimpan akan terhapus pada terakhir kali 
 
--Menu display untuk menampilkan buku yang telah diinput pengguna yang telah tersusun dalam bentuk table
+-Menu display untuk menampilkan buku yang telah tersusun dalam bentuk table
 
 ![Screenshot (575)](https://user-images.githubusercontent.com/122012870/225868870-4e07d0d1-fcb0-4f23-baae-d2b5740164ad.png)
 
